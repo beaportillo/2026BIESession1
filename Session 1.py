@@ -21,3 +21,5 @@ print("6", end="")
 
 print(4/2)
 print(2//4)
+
+print("this was added after 1st commit")
