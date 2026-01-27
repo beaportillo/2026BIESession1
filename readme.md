@@ -1,4 +1,4 @@
-# What I learned in programming so far
-- Using `print()`
-- How `sep` and `end` work
-- How to commit and push to GitHub
+# A little about me
+- I'm Spanish and English
+- I have 4 cats
+- I love traveling
