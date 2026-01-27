@@ -26,4 +26,4 @@ print("this was added after 1st commit")
 print("this was added after we shared on Github")
 
 print("This si my first homework")
-print("Now I commit")
+print("Now I commit.")
